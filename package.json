@@ -2,7 +2,7 @@
     "name": "neonnoir",
     "displayName": "Neon Noir",
     "description": "Highly customized neon inspired theme originally based on Tokyo Night Storm by enkia.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.64.0"
     },
