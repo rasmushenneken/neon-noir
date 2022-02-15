@@ -8,7 +8,7 @@ This theme is a highly customized neon inspired dark theme originally based on [
 
 ### Main focus
 
-The theme is focused for working with HTML, CSS, JS and [Svelte](https://github.com/sveltejs) projects
+The theme development is mainly focused on working with HTML, CSS, JS and [Svelte](https://github.com/sveltejs). It will work with many other languages too, but just might not look as pretty.
 
 ## Installation
 
