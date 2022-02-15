@@ -42,7 +42,7 @@ Requires [Fira Code](https://github.com/tonsky/FiraCode) by tonsky
 #### Prettier
 
     "prettier.arrowParens": "avoid",
-    "prettier.semi":  false
+    "prettier.semi": false
 
 #### Terminal
 
